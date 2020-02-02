@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%" viewBox="0 0 17 17">
+
+  <g id="taskWhite" transform="translate(0 0)">
+    <g id="Group_158" data-name="Group 158" transform="translate(0 0)">
+      <path id="Path_159" fill="#ffffff" data-name="Path 159" d="M12.812,1.414m0-1.414L6,6.812,3.125,3.938,0,7.062,2.875,9.937,3.938,11,6,13.062l9.938-9.938L12.812,0Z"/>
+      <path id="Path_160" fill="#c50f1f" data-name="Path 160" d="M12.812,1.414l1.711,1.711L6,11.648,4.645,10.293,3.582,9.23,1.414,7.062l1.711-1.71L5.293,7.52,6,8.227l.707-.707,6.105-6.106"/>
+    </g>
+  </g>
+</svg>

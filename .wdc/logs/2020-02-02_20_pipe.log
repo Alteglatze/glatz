@@ -1,0 +1,45 @@
+2020-02-02T15:03:06-05:00 ci=39ed2cdd-ca4c-402d-8299-4da3942f0e23 info {
+  "sourceId": "driveagent.apps.wdc.com",
+  "sourceName": "WD Device Agent",
+  "priority": 1,
+  "notification": {
+    "type": "com.wdc.portal.device.delete",
+    "context": [
+      {
+        "model": {
+          "name": "USB 2.0 FD",
+          "deviceId": "USB_154B_00D4_0701691C103D5269",
+          "_class": "com.wdc.portal.model.Device",
+          "type": "USB_154B_00D4",
+          "serial": "0701691C103D5269",
+          "capacity": "123815853568",
+          "firmware": "0",
+          "hasPassword": false,
+          "isLocked": false,
+          "volumes": [
+            {
+              "readOnly": false,
+              "isDriverInstallationRequired": false,
+              "hasTimeMachineBackup": false,
+              "capacity": "123765522432",
+              "spaceAvailable": "0.99998305544259181",
+              "volumeName": "USB20FD (F:)",
+              "url": "USB20FD (F:)",
+              "label": "USB20FD (F:)",
+              "openAction": {
+                "label": "Open",
+                "_class": "com.wdc.smb.action.OpenLocation",
+                "url": "F:\\"
+              }
+            }
+          ],
+          "mountPoints": [
+            {
+              "mountPoint": "F"
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
